@@ -1,9 +1,7 @@
 {
     # Theme information
     'name': "dourawards",
-    'description': """
-    dourawards site 主题
-    """,
+    'description': """dourawards site 主题""",
     'category': 'Theme',
     'version': '0.1',
     'depends': ['website'],
@@ -30,6 +28,6 @@
     ],
 
     # Your information
-    'author': "My Company",
-    'website': "https://www.yourcompany.com",
+    'author': "dafengstudio",
+    'website': "https://www.dafengstudio.com",
 }
